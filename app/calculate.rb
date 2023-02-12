@@ -5,3 +5,7 @@ end
 def test_two
 	puts "Test Two"
 end
+
+def test_three
+	puts " Test Three"
+end
