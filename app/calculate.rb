@@ -9,3 +9,7 @@ end
 def test_three
 	puts "Test Three"
 end
+
+def test_five
+	puts "Test Five"
+end
